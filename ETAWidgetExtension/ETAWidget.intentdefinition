@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>INEnums</key>
+	<array/>
+	<key>INIntentDefinitionModelVersion</key>
+	<string>1.2</string>
+	<key>INIntentDefinitionNamespace</key>
+	<string>ETAWidget</string>
+	<key>INIntentDefinitionSystemVersion</key>
+	<string>21A329</string>
+	<key>INIntents</key>
+	<array/>
+	<key>INTypes</key>
+	<array/>
+</dict>
+</plist>
